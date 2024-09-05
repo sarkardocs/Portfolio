@@ -1,7 +1,5 @@
 # Personal portfolio
 
-<br>
-
 ### Mobile View
 
 <p align="center">
@@ -13,7 +11,7 @@
 ### Desktop View
 
 <p align="center">
-  <img src="./website-demo-image/desktop.png" alt="welcome" style="width: 80px;">
+  <img src="./website-demo-image/desktop.png" alt="welcome">
 </p>
 
 <br>
