@@ -1,15 +1,28 @@
-# Personal Portfolio
+# Personal portfolio
+
+<br>
+
+### Mobile View
+
+<p align="center">
+  <img src="./website-demo-image/mobile.png" alt="welcome" style="width: 80px;">
+</p>
+
+<br>
+
+### Desktop View
+
+<p align="center">
+  <img src="./website-demo-image/desktop.png" alt="welcome" style="width: 80px;">
+</p>
+
+<br>
 
 ## Run this website
 
 Hit **Run** up there, or just hit `Cmd + ENTER`!
 
-You can customize it. Start from `index.html`.
-
-## Author & License
-
-This template has been developed by [@codewithsadee](https://www.twitter.com/codewithsadee). If you want to contact the author, you can reach out on [Twitter](https://www.twitter.com/codewithsadee). 
-
-Donations: [Patreon](https://patreon.com/codewithsadee).
+You can customize it.
+Start from `index.html`
 
 License: MIT (see LICENSE file).
