@@ -1,4 +1,4 @@
-# Personal portfolio
+# Personal Portfolio
 
 ### Mobile View
 
