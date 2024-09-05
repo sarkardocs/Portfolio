@@ -5,7 +5,7 @@
 ### Mobile View
 
 <p align="center">
-  <img src="./website-demo-image/mobile.png" alt="welcome" style="width: 80px;">
+  <img src="./website-demo-image/mobile.png" alt="welcome">
 </p>
 
 <br>
